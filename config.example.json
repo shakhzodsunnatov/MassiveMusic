@@ -1,0 +1,8 @@
+{
+  "lastfm_api_key": "YOUR_LASTFM_API_KEY_HERE",
+  "download_dir": "downloads",
+  "usb_path": "",
+  "max_similar_per_seed": 5,
+  "audio_quality": "320",
+  "audio_format": "mp3"
+}
